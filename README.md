@@ -1,6 +1,6 @@
 ### GCN-M
 
-This is the implementation of GCN-M in the following paper: Graph Convolutional Networks for Traffic Forecasting with missing values
+This is the implementation of GCN-M in the following paper: [Graph Convolutional Networks for Traffic Forecasting with missing values](https://arxiv.org/abs/2212.06419)
 
 
 
@@ -42,3 +42,17 @@ python data/generate_dated_data.py
 python main.py --config CONFIG_FILE --itr NBR_ITERATION
 ```
 
+
+### Citation
+
+If you find this repository useful in your research, please consider citing the following paper:
+
+```script
+@article{zuo2022graph,
+  title = {Graph Convolutional Networks for Traffic Forecasting with Missing Values},
+  author = {Zuo, Jingwei and Zeitouni, Karine and Taher, Yehia and Garcia-Rodriguez, Sandra},
+  publisher = {arXiv},
+  url = {https://arxiv.org/abs/2212.06419},
+  year = {2022}
+}
+```
