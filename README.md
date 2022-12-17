@@ -1,7 +1,6 @@
-### GCN-M
+### GCN-M: Graph Convolutional Networks for Traffic Forecasting with missing values
 
-This is the implementation of GCN-M in the following paper: [Graph Convolutional Networks for Traffic Forecasting with missing values](https://arxiv.org/abs/2212.06419)
-
+This is the companion repository for our paper titled [Graph Convolutional Networks for Traffic Forecasting with missing values](https://link.springer.com/article/10.1007/s10618-022-00903-7) published in [Data Mining and Knowledge Discovery](https://www.springer.com/journal/10618) and also available on [ArXiv](https://arxiv.org/abs/2212.06419).
 
 
 ### Requirements:
@@ -49,10 +48,9 @@ If you find this repository useful in your research, please consider citing the 
 
 ```script
 @article{zuo2022graph,
-  title = {Graph Convolutional Networks for Traffic Forecasting with Missing Values},
-  author = {Zuo, Jingwei and Zeitouni, Karine and Taher, Yehia and Garcia-Rodriguez, Sandra},
-  publisher = {arXiv},
-  url = {https://arxiv.org/abs/2212.06419},
-  year = {2022}
+  title     = {Graph Convolutional Networks for Traffic Forecasting with Missing Values},
+  author    = {Zuo, Jingwei and Zeitouni, Karine and Taher, Yehia and Garcia-Rodriguez, Sandra},
+  journal   = {Data Mining and Knowledge Discovery},
+  year      = {2022}
 }
 ```
