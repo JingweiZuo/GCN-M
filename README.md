@@ -47,10 +47,14 @@ python main.py --config CONFIG_FILE --itr NBR_ITERATION
 If you find this repository useful in your research, please consider citing the following paper:
 
 ```script
-@article{zuo2022graph,
-  title     = {Graph Convolutional Networks for Traffic Forecasting with Missing Values},
+@article{zuo2023graph,
+  title     = {Graph convolutional networks for traffic forecasting with missing values},
   author    = {Zuo, Jingwei and Zeitouni, Karine and Taher, Yehia and Garcia-Rodriguez, Sandra},
   journal   = {Data Mining and Knowledge Discovery},
-  year      = {2022}
+  volume    = {37},
+  number    = {2},
+  pages     = {913--947},
+  year      = {2023},
+  publisher = {Springer}
 }
 ```
